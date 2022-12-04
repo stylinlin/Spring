@@ -7,12 +7,12 @@ spring-boot-maven-plugin
 
 ## spring-boot-starter-web 2.6.1
 spring-boot-starter  
-&nbsp;&nbsp;|-- spring-boot  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-core   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-jcl  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-context   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-jcl
-spring-boot-json  
+&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-jcl  日志适配器  
+&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-core  
+
+
+  
+  
 spring-boot-tomcat  
 spring-web  
 spring-webmvc  
