@@ -7,13 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.util.Assert;
 
 @SpringBootApplication
-public class SpringdemoApplication {
+public class SpringDemoApplication {
 
 
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringdemoApplication.class, args);
-        Logger logger = LoggerFactory.getLogger(SpringdemoApplication.class);
+        SpringApplication.run(SpringDemoApplication.class, args);
+        Logger logger = LoggerFactory.getLogger(SpringDemoApplication.class);
         logger.info("开始服务启动1");
         Assert.hasLength("", () -> "打招呼说点什么吧！");
     }
