@@ -8,7 +8,7 @@ spring-boot-maven-plugin
 ## spring-boot-starter-web 2.6.1
 spring-boot-starter  
 &nbsp;&nbsp;&nbsp;&nbsp;|-- spring-jcl  日志适配器  
-&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-core  
+&nbsp;&nbsp;&nbsp;&nbsp;|-- spring-core  是spring框架的基石，它为spring框架提供了基础的支持。  
 
 
   
