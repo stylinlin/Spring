@@ -16,8 +16,8 @@ import java.io.OutputStream;
 import java.net.URLEncoder;
 
 /**
- * @program:digital-twin-bus
- * @description:
+ * @program:test
+ * @description:test
  * @author:jonlin
  * @create:2023/1/3 22:52
  */
